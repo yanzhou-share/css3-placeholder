@@ -1,0 +1,20 @@
+/**
+*placeholder 默认字体颜色
+*/
+
+
+::-webkit-input-placeholder{  /**webkit browsers */
+  color:#C77405;
+}
+
+:-moz-placeholder{  /**mozilla firefox 4 to 18 */
+  color:#C77405;
+}
+
+::-moz-placeholder{ /**mozilla firefox 19+ */
+  color:#C77405;
+}
+
+:-ms-input-placeholder{ /** IE 10+*/
+  color:#C77405;
+}
